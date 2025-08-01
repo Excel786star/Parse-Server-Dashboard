@@ -1,0 +1,14 @@
+{
+  "name": "parse-server-app",
+  "version": "1.0.0",
+  "description": "Parse Server with Dashboard on Render",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "parse-dashboard": "^5.2.1",
+    "parse-server": "^6.4.0"
+  }
+}
