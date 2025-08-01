@@ -1,7 +1,6 @@
 {
   "name": "parse-server-app",
   "version": "1.0.0",
-  "description": "Parse Server with Dashboard on Render",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
